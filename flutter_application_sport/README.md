@@ -1,15 +1,13 @@
 # Sport_Stats_App
 https://dribbble.com/shots/14311046-Sport-Stats-App
+![Sport_Apps](https://github.com/user-attachments/assets/4e78e8db-fe55-43d8-a042-e7c0c79c6b0f)
 
-## Getting Started
+![Screenshot 2024-11-09 001415](https://github.com/user-attachments/assets/864f79ab-cfd2-4212-b420-8fca5cfa4cf5)
+![Screenshot 2024-11-08 233959](https://github.com/user-attachments/assets/54ed8099-af13-4d89-8c1c-9e268d1fd179)
+![Screenshot 2024-11-08 234027](https://github.com/user-attachments/assets/3a9a84af-f5f4-4e29-a3c9-37f88afff01f)
 
-This project is a starting point for a Flutter application. 
+[demo aplikasi Sport Stats App]()
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/user-attachments/assets/16d2d242-39f1-492f-8285-00ee18df90d8
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
