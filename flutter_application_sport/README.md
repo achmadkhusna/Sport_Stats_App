@@ -1,10 +1,9 @@
-# flutter_application_sport
-
-A new Flutter project.
+# Sport_Stats_App
+https://dribbble.com/shots/14311046-Sport-Stats-App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. 
 
 A few resources to get you started if this is your first Flutter project:
 
